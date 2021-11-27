@@ -50,22 +50,6 @@ I'm very passionate about delivering the best technical solutions.
 
 <br> 
 
-<div align="center">
-  <!-- <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/webmaster1116/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/repos/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/gists/webmaster1116?style=flat-square&color=black&logo=github">
-  </a>
-   -->
-   <img src="https://github-profile-trophy.vercel.app/?username=webmaster1116&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
-</div>
 
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
