@@ -48,15 +48,6 @@ I'm very passionate about delivering the best technical solutions.
 </table>
 <br>
 
-
-<h1 style="font-size:42px" align="center">Contact me</h1>
-<h4>
-<!-- <b>Gmail</b>: erbaghdasaryan95@gmail.com<br>
-<b>skype</b>: live:.cid.55a1e69b0e6d37e3 -->
-<img align="right" src="https://komarev.com/ghpvc/?username=webmaster1116"/>
-  
-</h4>
-
 <br> 
 
 <div align="center">
