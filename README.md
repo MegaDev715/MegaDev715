@@ -1,56 +1,128 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Senior Full-Stack / Blockchain Developer</h1>
+  Senior Full-Stack / Blockchain Developer</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=blockchain%20developer;7+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
-An enthusiastic and challenge-driven developer with 7+ years of experience specializing in full-stack web development and blockchain.
-My focus is to help clients with their business by fixing and creating projects of value.
-I'm very passionate about delivering the best technical solutions.
-<br>
+<h3> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Nice to meet you.</h3>
+<p>An enthusiastic and challenge-driven developer with 7+ years of experience specializing in full-stack web development and blockchain.</p>
+
+<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
-<table>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/nodejs-2-226035.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/angular-3-226070.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/git-18-1175219.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
-  </tr>
-</table>
-<br>
-
-<br> 
+<h2>Skills & Status</h2>
 
 
+<p align="right">
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=coolpapa715&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
+</p>
 
-<!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
-![](https://hit.yhype.me/github/profile?user_id=75884770)
+
+<div>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=plastic&logo=bitcoin&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Bitcoin" src="https://img.shields.io/badge/Ethereum-442288?style=plastic&logo=ethereum&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Solidity" src="https://img.shields.io/badge/Solidity-blue?style=plastic&logo=solidity&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Solidity" src="https://img.shields.io/badge/Rust-443330?style=plastic&logo=rust&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Solidity" src="https://img.shields.io/badge/Web3.js-11aa33?style=plastic&logo=web3.js&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/coolpapa715">
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-11bb44?style=plastic&logo=javascript&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-blue?style=plastic&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=plastic&logo=redux&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Redux" src="https://img.shields.io/badge/-express-inactive?style=plastic&logo=express&logoColor=white" />
+  </a>
+   <a href="https://github.com/coolpapa715">
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=plastic&logo=Node.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-23DAFB?style=plastic&logo=c-sharp&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=sass&logoColor=white" />
+  </a>
+   <a href="https://github.com/coolpapa715">
+    <img alt="Sass" src="https://img.shields.io/badge/Tailwind CSS-yellow?style=plastic&logo=tailwind CSS&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">  
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/coolpapa715">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0f69a9?style=plastic&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-13aa52?style=plastic&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">
+    <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/coolpapa715">  
+    <img alt="Amazon" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">  
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-46a2f1?style=plastic&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">  
+    <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-F05032?style=plastic&logo=bitbucket&logoColor=white" />
+  </a>
+  <a href="https://github.com/coolpapa715">  
+    <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab" />
+  </a>
+  <a href="https://github.com/coolpapa715">  
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github" />
+  </a>
+  <a href="https://github.com/coolpapa715">  
+    <img alt="Github actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" />
+  </a>
+</div>
+
