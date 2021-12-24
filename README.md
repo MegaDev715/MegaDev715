@@ -2,7 +2,7 @@
 <h3> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Nice to meet you.</h3>
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolpapa715&label=Profile%20views&color=0e75b6&style=flat" alt="coolpapa715" /> </p> -->
 
 
 <h2>Skills & Status</h2>
