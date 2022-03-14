@@ -5,12 +5,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=coolpapa715&label=Profile%20views&color=0e75b6&style=flat" alt="coolpapa715" /> </p> -->
 
 
-<h2>Skills & Status</h2>
+<h2>My Experiences</h2>
 
-
-<p align="right">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=coolpapa715&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
-</p>
 
 
 <div>
